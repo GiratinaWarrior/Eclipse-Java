@@ -1,0 +1,144 @@
+Algorithm: shell
+Average Time (ns): 390340.0
+Array Order: Random
+Size: 10
+Average Number of Loops: 42.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 9.6
+Average Number of Comparisons: 99.0
+
+Algorithm: selection
+Average Time (ns): 181580.0
+Array Order: Random
+Size: 10
+Average Number of Loops: 11.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 10.0
+Average Number of Comparisons: 65.0
+
+Algorithm: bubble
+Average Time (ns): 32120.0
+Array Order: Random
+Size: 10
+Average Number of Loops: 100.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 23.4
+Average Number of Comparisons: 201.0
+
+Algorithm: insertion
+Average Time (ns): 7330.0
+Array Order: Random
+Size: 10
+Average Number of Loops: 55.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 20.8
+Average Number of Comparisons: 111.0
+
+Algorithm: quick
+Average Time (ns): 5220.0
+Array Order: Random
+Size: 10
+Average Number of Loops: 23.3
+Average Number of Recursions: 124.0
+Average Number of Swaps: 18.5
+Average Number of Comparisons: 66.2
+
+Algorithm: shell
+Average Time (ns): 4020.0
+Array Order: Reverse
+Size: 10
+Average Number of Loops: 42.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 0.7
+Average Number of Comparisons: 99.0
+
+Algorithm: selection
+Average Time (ns): 3110.0
+Array Order: Reverse
+Size: 10
+Average Number of Loops: 11.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 10.0
+Average Number of Comparisons: 65.0
+
+Algorithm: bubble
+Average Time (ns): 6590.0
+Array Order: Reverse
+Size: 10
+Average Number of Loops: 100.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 43.0
+Average Number of Comparisons: 201.0
+
+Algorithm: insertion
+Average Time (ns): 6210.0
+Array Order: Reverse
+Size: 10
+Average Number of Loops: 55.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 43.0
+Average Number of Comparisons: 111.0
+
+Algorithm: quick
+Average Time (ns): 5170.0
+Array Order: Reverse
+Size: 10
+Average Number of Loops: 45.0
+Average Number of Recursions: 180.0
+Average Number of Swaps: 51.6
+Average Number of Comparisons: 118.0
+
+Algorithm: selection
+Average Time (ns): 103150.0
+List Order: Random
+Size: 10
+Average Number of Loops: 10.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 9.0
+Average Number of Comparisons: 118.0
+
+Algorithm: bubble
+Average Time (ns): 37630.0
+List Order: Random
+Size: 10
+Average Number of Loops: 81.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 17.9
+Average Number of Comparisons: 163.0
+
+Algorithm: insertion
+Average Time (ns): 20820.0
+List Order: Random
+Size: 10
+Average Number of Loops: 45.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 14.7
+Average Number of Comparisons: 91.0
+
+Algorithm: selection
+Average Time (ns): 9930.0
+List Order: Reverse
+Size: 10
+Average Number of Loops: 10.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 9.0
+Average Number of Comparisons: 118.0
+
+Algorithm: bubble
+Average Time (ns): 16510.0
+List Order: Reverse
+Size: 10
+Average Number of Loops: 81.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 34.0
+Average Number of Comparisons: 163.0
+
+Algorithm: insertion
+Average Time (ns): 17760.0
+List Order: Reverse
+Size: 10
+Average Number of Loops: 45.0
+Average Number of Recursions: 0.0
+Average Number of Swaps: 32.0
+Average Number of Comparisons: 91.0
+
